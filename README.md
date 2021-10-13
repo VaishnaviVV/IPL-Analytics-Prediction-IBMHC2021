@@ -3,9 +3,9 @@ Developed as a part of IBM Hack Challenge 2021. Visualized the statistics of IPL
 
 # Won the special Jury Award
 # Team: 
-Vaishnavi V V
-G O Narendra
-Shalini Annadurai
+Vaishnavi V V <br>
+G O Narendra <br>
+Shalini Annadurai <br>
 Aravinda B
 
 
